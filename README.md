@@ -13,7 +13,7 @@ We present DAS sample and 1D/2D CNN for vehicle type and occupancy classificatio
 2. Current reproducing results:
    |                             | 5-way | 5-way | 2-way | 2-way | 2-way + |
    |-----------------------------|-------|-------|-------|-------|---------|
-   | Model                       | 1D    | 2D    | 1D    | 2D    |         |
+   | Model of CNN                | 1D    | 2D    | 1D    | 2D    |         |
    | Train:Test                  | 67:33 | 80:20 | 80:20 | 80:20 |         |
    | RC-60-Mix                   | 0.81  | 0.93  | 0.896 | 0.98  |         |
    | Ind. RC-60-1p  (AllCars-1p) | 0.297 | 0.68  | 0.46  | 0.62  |         |
