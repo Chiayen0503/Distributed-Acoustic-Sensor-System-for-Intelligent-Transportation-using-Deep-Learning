@@ -4,7 +4,7 @@ We present DAS sample and 1D/2D CNN for vehicle type and occupancy classificatio
 1. How to setup <br>
    Step 1: Download and unzip preprocessed data in current directory: https://drive.google.com/file/d/1Dqm0WuZqC7Iopgt7Yy12ddgDN6fU5WyW/view?usp=drive_link <br>
 
-   or alternatively <br>
+   or alternatively (not recommand)<br>
 
    Download and unzip raw data (1) in current directory and run the following notebooks (2):
    * (1) raw data: https://drive.google.com/file/d/1RvyaRBf5PyBU4nVys5bn6OjHhCfGOT1c/view?usp=drive_link
