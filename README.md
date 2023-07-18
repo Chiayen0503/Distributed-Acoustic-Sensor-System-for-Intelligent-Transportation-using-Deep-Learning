@@ -12,12 +12,11 @@ We present DAS sample and 1D/2D CNN for vehicle type and occupancy classificatio
 
    Step 2: Install pandas, numpy, and tensorflow <br>
    Step 3: Keep in mind how the names of datasets in this repository are related to the paper:
-
-   | name in paper                            | pre-proccessed data in the repository    | dataset description                 | labels description                                                                                                                        |
-   |------------------------------------------|------------------------------------------|-------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
-   | RC-60-Mix                                | 058_5p_to_1p_X.txt<br>058_5p_to_1p_y.txt | Car 2 with 5, 4, 3, 2, 1 passengers(p) | 5p: label=1<br>4p: label=2<br>3p: label=3<br>2p: label=4<br>1p: label=5                                                                   |
-   | AllCars-1p <br>(RC-60-1p) | 026_X.txt<br>026_y.txt                   | Car 1, 2, 3, 4, 5 with 1 passenger  | Car1: label=1<br>Car2: label=2<br>Car3: label=3<br>Car4: label=4<br>Car5: label=5<br>(Note: we only retrieve car2 data from 026 data) |
-   | RC-60-5p                                 | 058_5p_X.txt<br>058_5p_y.txt             | Car 2 with 5 passengers             | label=1                                                                                                                                   |
+   | name in paper                            | pre-proccessed data in the repository    | dataset description                                                                                                                             |
+   |------------------------------------------|------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
+   | RC-60-Mix                                | 058_5p_to_1p_X.txt<br>058_5p_to_1p_y.txt | Car 2 with 5, 4, 3, 2, 1 passengers                                                                                                             |
+   | AllCars-1p <br>(= is now named RC-60-1p) | 026_X.txt<br>026_y.txt                   | The file contains signals from <br>Car 1, 2, 3, 4, 5 with 1 passengers<br>but only Car 2 data is used for this <br>individual testing dataset   |
+   | RC-60-5p                                 | 058_5p_X.txt<br>058_5p_y.txt             | Car 2 with 5 passengers                                                                                                                         |
 
     
 
