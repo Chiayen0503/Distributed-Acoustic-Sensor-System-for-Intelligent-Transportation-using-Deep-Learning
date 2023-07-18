@@ -15,7 +15,7 @@ We present DAS sample and 1D/2D CNN for vehicle type and occupancy classificatio
    | name in paper                            | pre-proccessed data in the repository    | dataset description                                                                                                                             |
    |------------------------------------------|------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
    | RC-60-Mix                                | 058_5p_to_1p_X.txt<br>058_5p_to_1p_y.txt | Car 2 with 5, 4, 3, 2, 1 passengers                                                                                                             |
-   | AllCars-1p <br>(= is now named RC-60-1p) | 026_X.txt<br>026_y.txt                   | The file contains signals from <br>Car 1, 2, 3, 4, 5 with 1 passengers<br>but only Car 2 data is used for this <br>individual testing dataset   |
+   | AllCars-1p <br>(= is now named RC-60-1p) | 026_X.txt<br>026_y.txt                   | The file contains signals from <br>Car 1, 2, 3, 4, 5 with 1 passengers<br>but only Car 2 data is used for this individual testing dataset   |
    | RC-60-5p                                 | 058_5p_X.txt<br>058_5p_y.txt             | Car 2 with 5 passengers                                                                                                                         |
 
     
